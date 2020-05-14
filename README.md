@@ -20,7 +20,7 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
   * Matching parenthesis and curly brackets to with colors
 
-## Workflow
+## Workflow 
 
 * [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
   * Adds the ability to create files anywhere in your workspace.
